@@ -1,31 +1,114 @@
 体育,#genre#
+爱尔达体育1台,P2p://generationnexxxt.com:19806/db1725953e1d4256bcfab79f1873a727
+爱尔达体育1台(B),P2p://generationnexxxt.com:19806/49de700b9bd64f49b6b877f188eb7845
+爱尔达体育2台(B),P2p://generationnexxxt.com:19806/1ba2c7d7725f46a595dcb7df1741b5fb
+爱尔达体育2台,P2p://generationnexxxt.com:19806/d1f16ee235314a0fbc33742ab7af534b
 爱尔达体育3台,P2p://generationnexxxt.com:19806/90ea1d1ed6654b5d863053cfceb050e0
 爱尔达体育3台(B),P2p://generationnexxxt.com:19806/45f846eb465245d2aae9e7c34609f960
-有線體育台,p3p://108.181.32.169:32155/64100a6b000527e19802a6b80be147fa 
-新闻169,#genre#
-無線新聞台(b),p3p://108.181.32.169:32155/6533f9fb00006d352d0f6f9235041f8d 
-有线新闻台,p3p://108.181.32.169:32155/6533f8d200067abd2d0ae8f534c10d88 
-有线新闻台(b),p3p://108.181.32.169:32155/6427e50e0008e093f53042b347a45e2f 
-NOW新闻台,p3p://108.181.32.169:32155/6410254c0006df63986ba60f292a7500 
-寰宇新聞台,p3p://108.181.32.169:32155/64295eb60008744efaf37ae07d17520b 
+爱尔达体育4台,P2p://generationnexxxt.com:19806/4c4be1e474784fdbbfb565b5046238f4
+爱尔达体育4台(B),P2p://generationnexxxt.com:19806/4e215dc71da5483bae1a0316a8c4673e
+爱尔达体育台 HD,http://extraott.com:80/live/7921751389/6097373662/5543.m3u8
+爱尔达体育2台 HD,http://extraott.com:80/live/7921751389/6097373662/5545.m3u8
+爱尔达体育3台 HD,http://extraott.com:80/live/7921751389/6097373662/5544.m3u8
 
 新闻频道,#genre#
 无线新闻台org,http://live.cooltv.top/tv/tvb.php?id=2&hq
-无线新闻台,http://live.cooltv.top/tv/tvb.php?id=0&hq
+无线新闻台Hk,http://live.cooltv.top/tv/tvb.php?id=0&hq
 无线新闻,http://grandprix2023.asuscomm.com:8892/bysid/83
 无线新闻台,http://php.jdshipin.com:8880/smt.php?id=inews_twn
-财经资讯台,http://php.jdshipin.com:8880/smt.php?id=tvbcaijing_twn
 无线新闻台 ,http://etv.xhgvip.top/hieus/tbs.php?id=7
-HOY 资讯台,http://60.208.140.180:5544/hoy78/香蕉哥专用-易發TV.live.flv
+HOY 资讯台,http://beishan008.asuscomm.com:8891/bysid/78.m3u8
 HOY资讯台,P2p://generationnexxxt.com:19806/f40dc92cdc224868b83be4156ec315dc
-寰宇新闻台,P2p://generationnexxxt.com:19806/33c00ed7adda475f9afe8adbd600bd9a
+Now 新闻台,http://php.jdshipin.com:8880/xsj.php?id=now-news
+寰宇新闻台P,P2p://generationnexxxt.com:19806/33c00ed7adda475f9afe8adbd600bd9a
+
 电影频道,#genre#
 粤语星爷电影,http://cfss.cc/cdn/hy/11336587.m3u8
-TVB爆谷台(不稳定),p3p://108.181.32.169:32155/641af90c000328bac2b691f11db2274a 
-TVB星影台(不稳定),p3p://108.181.32.169:32155/641af926000cc2b9c2b6f9f75c8d2b97 
+NOW 星影,http://123.150.5.131:9000/NOW星影/香蕉哥专用-易發TV.live.ts
+NOW 爆谷,http://123.150.5.131:9000/NOW爆谷/香蕉哥专用-易發TV.live.ts
+NOW 星影2,http://120.211.93.113:8089/NOW星影/香蕉哥专用-易發TV.live.flv
+NOW 爆谷2,http://120.211.93.113:8089/NOW爆谷/香蕉哥专用-易發TV.live.flv
 電影一台,p3p://108.181.32.169:32155/6410224e00097a01985ff68e53d22e70 
 粤语电影1,http://cfss.cc/cdn/dyu/1226741.flv
 粤语电影2,http://cfss.cc/cdn/dyu/6566671.flv
+娱乐扒叔轮播,https://live.metshop.top/douyu/9624581
+粤语版电影一,https://live.metshop.top/douyu/5033502
+粤语版电影二,https://live.metshop.top/douyu/6566671
+粤语版电影三,https://live.metshop.top/douyu/1226741
+贝爷求生,https://live.metshop.top/douyu/454867
+音乐电台,#genre#
+广东,https://lhttp.qingting.fm/live/1257/64k.mp3
+广东音乐,https://lhttp.qingting.fm/live/1260/64k.mp3
+广东2,https://lhttp.qingting.fm/live/1259/64k.mp3
+广东汽车,https://lhttp.qingting.fm/live/1262/64k.mp3
+广东3,https://lhttp.qingting.fm/live/1264/64k.mp3
+香港第三台,https://rthkaudio3-lh.akamaihd.net/i/radio3_1@355866/master.m3u8
+香港古典音乐,https://rthkradio1-live.akamaized.net/hls/live/2035313/radio1/master.m3u8?sd=10&rebase=on
+亚洲经典,https://lhttp.qingting.fm/live/5021912/64k.mp3
+亚洲热歌,https://live.ximalaya.com/radio-first-page-app/live/1908/64.m3u8?transcode=ts
+HD音乐,https://lhttp.qingting.fm/live/15318341/64k.mp3
+亚洲粤语,https://lhttp.qingting.fm/live/15318569/64k.mp3
+亚洲天空,https://lhttp.qingting.fm/live/20071/64k.mp3
+亚洲音乐,https://lhttp.qingting.fm/live/5022405/64k.mp3
+澳门绿坉,https://fm995.ddns.net/hls1/fm995.m3u8
+
+169频道,#genre#
+爱尔达体育1台,p3p://108.181.32.169:56470/6425229e00024ab4ea68bb9154ab1928
+爱尔达体育2台,p3p://108.181.32.169:56470/642522b0000a6c14ea6903f615622aab
+爱尔达体育3台,p3p://108.181.32.169:56470/642522bd000ad1bbea6936d803e32fc0
+爱尔达体育3台,p3p://108.181.32.169:56470/6433e3220006392724084f1711880c01
+NOW体育台,p3p://108.181.32.169:56470/6410211d00048968985b4de16d6e5b6a
+EPL nsports 英超4k ,p3p://108.181.32.169:56470/64d74cf7000556f0223ed6366e5f689a
+EPL nsports 英超1 eng,p3p://108.181.32.169:56470/64d74cb1000cc276223dc6ac654a2299
+EPL nsports 英超4k1 粤语,p3p://108.181.32.169:56470/64d74ca40007202e223d927267473868
+EPL nsports 英超 粤语,p3p://108.181.32.169:56470/64d74c1600083555223b68096e79387e
+Now体育1 Sports 1,p3p://108.181.32.169:56470/643361f20007b9a9220fabfc3001244e
+Now体育2 Sports 2,p3p://108.181.32.169:56470/643362090006b031221005903b883d07
+Now体育3 Sports 3,p3p://108.181.32.169:56470/6433621d000d9c3522105573223958e1
+Now体育4 Sports 4,p3p://108.181.32.169:56470/6437999f00025f983289265f38ef3722
+Now体育5 Sports 5,p3p://108.181.32.169:56470/643799aa000e7bac3289547135e05a80
+Now体育6 Sports 6,p3p://108.181.32.169:56470/643799bb00044f193289943e2e5f6ac1
+Now体育7 Sports 7,p3p://108.181.32.169:56470/643799ca000a29a43289d0542d57262c
+
+159频道,#genre#
+爱尔达体育1,p3p://108.181.20.159:19154/623a8d50000c965397b2d5b26c7b25bd 
+爱尔达体育2,p3p://108.181.20.159:19154/623a8d8d0001570d97b3c11a65640b68 
+爱尔达体育3,p3p://108.181.20.159:19154/622e99e60004026169046fd918be6ed7 
+爱尔达体育4,p3p://108.181.20.159:19154/6561b7fc0008015996e9acc674481614
+
+NOW台,#genre#
+Now 财经台,http://php.jdshipin.com:8880/xsj.php?id=now-finance
+Now 爆谷台,http://php.jdshipin.com:8880/xsj.php?id=baogu-movies
+Now 星影台,http://php.jdshipin.com:8880/xsj.php?id=now-baogu-superstars
+Now 新闻台,http://php.jdshipin.com:8880/xsj.php?id=now-news
+Now 直播台,http://php.jdshipin.com:8880/xsj.php?id=now-direct
+Now报价台,http://php.jdshipin.com:8880/xsj.php?id=now-data
+Now jelli紫金国际台,http://php.jdshipin.com:8880/xsj.php?id=now-jelli
+Now华剧台,http://php.jdshipin.com:8880/xsj.php?id=now-chinese-drama
+HBO Now115,http://php.jdshipin.com:8880/xsj.php?id=Now-HBO
+Now HBO Hits,http://php.jdshipin.com:8880/xsj.php?id=now-hbo-hits
+Now HBO Family,http://php.jdshipin.com:8880/xsj.php?id=now-hbof-amily
+Now HBO Signature,http://php.jdshipin.com:8880/xsj.php?id=now-hbo-signature
+MovieMovie,http://php.jdshipin.com:8880/xsj.php?id=moviemovie
+NowViu剧集台,http://php.jdshipin.com:8880/xsj.php?id=now-viu-drama
+Now Sports 641,http://php.jdshipin.com:8880/xsj.php?id=now-sports641
+Now NBA,http://php.jdshipin.com:8880/xsj.php?id=now-nba
+Now Sports精选,http://php.jdshipin.com:8880/xsj.php?id=now-sports-prime
+Now Sports 1,http://php.jdshipin.com:8880/xsj.php?id=now-sports-1
+Now Sports 2,http://php.jdshipin.com:8880/xsj.php?id=now-sports-2
+Now Sports 3,http://php.jdshipin.com:8880/xsj.php?id=now-sports-3
+Now Sports 4,http://php.jdshipin.com:8880/xsj.php?id=now-sports-4
+Now Sports 5,http://php.jdshipin.com:8880/xsj.php?id=now-sports-5
+Now Sports 6,http://php.jdshipin.com:8880/xsj.php?id=now-sports-6
+Now Sports 7,http://php.jdshipin.com:8880/xsj.php?id=now-sports-7
+Now Sports Plus,http://php.jdshipin.com:8880/xsj.php?id=now-sports-plus
+Now Sports 英超1,http://php.jdshipin.com:8880/xsj.php?id=now-sports-premier-league1
+Now beIN SPORTS 1,http://php.jdshipin.com:8880/xsj.php?id=now-bein-sports1
+Now beIN SPORTS 2,http://php.jdshipin.com:8880/xsj.php?id=now-bein-sports2
+Now beIN SPORTS 3,http://php.jdshipin.com:8880/xsj.php?id=now-bein-sports3
+Now 668,http://php.jdshipin.com:8880/xsj.php?id=now-668
+Now Golf 2,http://php.jdshipin.com:8880/xsj.php?id=now-golf2
+Now Golf 3,http://php.jdshipin.com:8880/xsj.php?id=now-golf3
 TEMP频道,#genre#
 CCTV5,http://114.252.227.154:8000/udp/239.3.1.173:8001
 CCTV5+,http://114.252.227.154:8000/udp/239.3.1.130:8004
