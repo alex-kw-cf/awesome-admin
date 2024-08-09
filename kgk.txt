@@ -27,5 +27,5 @@ TVB星影台(不稳定),p3p://108.181.32.169:32155/641af926000cc2b9c2b6f9f75c8d2
 粤语电影1,http://cfss.cc/cdn/dyu/1226741.flv
 粤语电影2,http://cfss.cc/cdn/dyu/6566671.flv
 TEMP频道,#genre#
-CCTV5,http://124.193.37.38:91/live/CCTV5hd-8M/live.m3u8
-CCTV5+,http://124.193.37.38:91/live/CCTV5+hd-8M/live.m3u8
+CCTV5,http://114.252.227.154:8000/udp/239.3.1.173:8001
+CCTV5+,http://114.252.227.154:8000/udp/239.3.1.130:8004
