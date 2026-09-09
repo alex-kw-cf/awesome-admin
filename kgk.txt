@@ -183,5 +183,5 @@ TVBS亚洲,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=fc08860f10f58de9333
 爱尔达体育Max2,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=430b728fff4e6a4a5b8f2fe3f529ee8b;token=FT48WqcKMPn8MU6x26sDLPrfK18EQx4Q;type=mobile2026Acc3iL
 爱尔达体育Max3,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=50dedb2249b6a9c668c8eb92e37542eb;token=FT48WqcKMPn8MU6x26sDLPrfK18EQx4Q;type=mobile2026Acc3iL
 爱尔达体育Max4,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=3d78e7fd3f3dc888cc6cd75aa9c5b154;token=FT48WqcKMPn8MU6x26sDLPrfK18EQx4Q;type=mobile2026Acc3iL
-
-
+博斯無限台,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=a65faa238bcd8ba08e9a7aec2f4c150a;token=FT48WqcKMPn8MU6x26sDLPrfK18EQx4Q;type=mobile2026Acc3iL
+美食星球,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=d8addab13f0194673777b66628b99461;token=FT48WqcKMPn8MU6x26sDLPrfK18EQx4Q;type=mobile2026Acc3iL
