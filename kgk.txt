@@ -399,6 +399,13 @@ TNTSports1,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=9b3d26218a5e54169a2
 TNTSports4,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=fac075ed117ef34d5675b891d346b1b5;token=Gq5aq3u7cpk1v2FncL3VVGu1rMyMRF2e;type=mobile2026Acc3iL
 NBATV,http://kt.hmysapp.cn:222/cdnlive.php?mode=play;id=2d3c85f4e06f13535a15a2449cd23a33;token=Gq5aq3u7cpk1v2FncL3VVGu1rMyMRF2e;type=mobile2026Acc3iL
 TEMP,#genre#
+[Cx]Now新闻,http://rihou.cc:555/tv/[Cx]Now新闻
+HOY77,https://freeiptv.indevs.in/jiliu.php?id=5250
+翡翠台,https://freeiptv.indevs.in/jiliu.php?id=5030
+https://freeiptv.indevs.in/jiliu.php?id=5250
+無線新聞台,https://freeiptv.indevs.in/jiliu.php?id=5060
+NOW新闻台,https://freeiptv.indevs.in/jiliu.php?id=5140
+hoy78,https://freeiptv.indevs.in/jiliu.php?id=5330
 星影台,https://freeiptv.indevs.in/jiliu.php?id=5152
 爆谷台,https://freeiptv.indevs.in/jiliu.php?id=5153
 now sports 4K,https://freeiptv.indevs.in/jiliu.php?id=5822
