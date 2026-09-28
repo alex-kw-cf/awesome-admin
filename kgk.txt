@@ -124,6 +124,11 @@ CCTV台球,https://freeiptv.indevs.in/yushan.php?id=61
 CCTV足球,https://freeiptv.indevs.in/yushan.php?id=42
 CCTV剧场,https://freeiptv.indevs.in/yushan.php?id=27
 广东,#genre#
+广东珠江,http://cdn2.123.rr.kg/163189/gdzj
+广东体育,http://cdn2.123.rr.kg/163189/gdty
+广州综合,http://cdn16.123.rr.kg/163189/gzzh
+广州新闻,http://cdn16.123.rr.kg/163189/gzxw
+广州南国都市,https://cdn15.163189.xyz/163189/ngds
 广东少儿,https://freeiptv.indevs.in/yushan.php?id=308
 广东影视,https://freeiptv.indevs.in/yushan.php?id=309
 广东卫视4K,https://freeiptv.indevs.in/yushan.php?id=310
