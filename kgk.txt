@@ -326,9 +326,10 @@ DANZ1,https://freeiptv.indevs.in/iptv234.php?tid=wintv123&id=82
 DANZ2,https://freeiptv.indevs.in/iptv234.php?tid=wintv123&id=83
 BBC NEWS,https://freeiptv.indevs.in/iptv234.php?tid=wintv123&id=109
 TEMP,#genre#
+NOW新闻台,https://fast.hidns.vip/163189/now
 [Cx]Now新闻,http://rihou.cc:555/tv/[Cx]Now新闻
 HOY77,https://freeiptv.indevs.in/jiliu.php?id=5250
-翡翠台,https://freeiptv.indevs.in/jiliu.php?id=5030
+翡翠台,https://freeiptv.indevs.in/jiliu.phpnowNOW
 奖门人,https://freeiptv.indevs.in/jiliu.php?id=5630
 https://freeiptv.indevs.in/jiliu.php?id=5250
 無線新聞台,https://freeiptv.indevs.in/jiliu.php?id=5060
