@@ -325,6 +325,200 @@ TVBS live,https://freeiptv.indevs.in/iptv234.php?tid=wintv123&id=70
 DANZ1,https://freeiptv.indevs.in/iptv234.php?tid=wintv123&id=82
 DANZ2,https://freeiptv.indevs.in/iptv234.php?tid=wintv123&id=83
 BBC NEWS,https://freeiptv.indevs.in/iptv234.php?tid=wintv123&id=109
+日本频道,#genre#
+NHK G,http://tsb-mega.i9.ee/stream/nhkg_avc_1080p
+NHK G,http://tsb-mega.i9.ee/stream/nhkg_hevc_1080p
+NHK G,https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd01
+NHK BS,https://naori-test.netgenx.site/pxx.php?shk_cid=bs11
+NHK E,https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd02
+NHK BSP4K,https://tsb-mega.i9.ee/stream/nhkbsp4k_hevc
+NHK BS8K,https://tsb-mega.i9.ee/stream/nhkbs8k_hevc_mmt
+CGN日本,https://d2p4mrcwl6ly4.cloudfront.net/out/v1/8d50f69fdbbf411a8d302743e4263716/CGNWebLiveJP.m3u8
+JOAX-DTV,https://ntv5.mov3.co/hls/ntv.m3u8
+富士TV,https://fujitv4.mov3.co/hls/fujitv.m3u8
+NHKWorld-Japan,https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
+NHKWorld-Japan,https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
+QVC购物,https://d1flvb4iqlercm.cloudfront.net/live/live_1080p_2nd.m3u8
+ShopChannel,https://stream3.shopch.jp/HLS/master.m3u8
+朝日TV,https://tvasahi.mov3.co/hls/tvasahi.m3u8
+天气新闻,https://rch01e-alive-hls.akamaized.net/38fb45b25cdb05a1/out/v1/4e907bfabc684a1dae10df8431a84d21/index.m3u8
+NHKR1广播,https://masterpl.hls.nhkworld.jp/hls/r1/live/master.m3u8
+日本电视台,https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd03
+朝日电视台,https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd06
+TBS电视台,https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd04
+东京电视台,https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd07
+富士电视台,https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd05
+东京电视台MX1,https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd08
+东京电视台MX2,https://haru.charandom.blog/stream/jp/tokyo_mx2/stream-output.m3u8?mode=hls
+日本电视台（卫星）,https://naori-test.netgenx.site/pxx.php?shk_cid=bs02
+朝日电视台（卫星）,https://naori-test.netgenx.site/pxx.php?shk_cid=bs03
+TBS（卫星）,https://naori-test.netgenx.site/pxx.php?shk_cid=bs04
+东京电视台（卫星）,https://naori-test.netgenx.site/pxx.php?shk_cid=bs05
+富士电视台（卫星）,https://naori-test.netgenx.site/pxx.php?shk_cid=bs06
+NHK BSP4K,https://naori-test.netgenx.site/pxx.php?shk_cid=bs01
+NTV新闻24,https://haru.charandom.blog/stream/jp/ntv_news24/stream-output.m3u8?mode=hls
+BBC新闻,https://naori-test.netgenx.site/pxx.php?shk_cid=cs15
+TBS新闻,https://naori-test.netgenx.site/pxx.php?shk_cid=cs11
+港澳台,#genre#
+凤凰香港,http://43.152.224.209/qctv.fengshows.cn/live/0701phk72.flv
+凤凰资讯,http://43.152.224.209/qctv.fengshows.cn/live/0701pin72.flv
+凤凰中文,http://43.152.224.209/qctv.fengshows.cn/live/0701pcc72.flv
+凤凰香港,http://43.152.224.209/qctv.fengshows.cn/live/0701phk72.m3u8
+凤凰资讯,http://43.152.224.209/qctv.fengshows.cn/live/0701pin72.m3u8
+凤凰中文,http://43.152.224.209/qctv.fengshows.cn/live/0701pcc72.m3u8
+Now新闻,https://fast.hidns.vip/163189/now
+Now新闻,http://173.208.234.146/live/nowxw.m3u8
+翡翠台,https://cdn3.indevs.in/stream/tvb/fct/
+翡翠台,https://cdn3.indevs.in/stream/tvb/fct4k/
+明珠台,https://cdn3.indevs.in/stream/tvb/mzt/
+香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+TVB娱乐新闻台,http://cdn6.cc.cd/163189/ylxw
+华丽翡翠台,https://cdn3.indevs.in/stream/live/hlt/
+千禧经典台,https://cdn3.indevs.in/stream/live/tvbc/
+美亚C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
+天映频道,https://cdn3.indevs.in/stream/live/typd/
+天映频道,https://10.fast.hidns.vip/163189/typd/
+天映经典,https://cdn3.indevs.in/stream/live/ccm/
+天映经典,https://10.fast.hidns.vip/163189/ccm/
+Astro AOD,https://cdn3.indevs.in/stream/live/aod/
+Astr AeC,https://cdn3.indevs.in/stream/live/aec/
+Astro 爱奇艺,https://cdn3.indevs.in/stream/live/iqiyi/
+Astro 欢喜台,https://cdn3.indevs.in/stream/live/hxt/
+Astro QJ,https://cdn3.indevs.in/stream/live/qj/
+TVB PLUS,https://cdn3.indevs.in/stream/tvb/tvbp/
+TVB1,http://cdn6.cc.cd/163189/tvb1
+TVBJ1,http://cdn6.cc.cd/163189/j1
+ViuTV,https://10.fast.hidns.vip/163189/viu/
+ViuTVsix,https://10.fast.hidns.vip/163189/viu6/
+HOY77,https://fast.hidns.vip/163189/hoy
+HOY77,https://cdn6.cc.cd/163189/hoy
+HOY资讯台,https://fast.hidns.vip/163189/hoy78
+HOY国际财经台,https://cdn11.163189.xyz/163189/hoy76
+翡翠剧集台,http://cdn6.cc.cd/163189/tvbd
+无线新闻台,https://php.946985.filegear-sg.me/tvbnews.php?id=c
+無綫新聞台國際版,https://php.946985.filegear-sg.me/tvbnews.php?id=inews
+TVB星河,https://cdn3.indevs.in/stream/live/tvbxh/
+无线功夫,https://cdn6.cc.cd/163189/yzwx
+澳视澳门,http://cdn6.cc.cd/163189/asam
+澳视卫星,http://cdn6.cc.cd/163189/as
+澳门体育,http://cdn6.cc.cd/163189/amty
+澳门综艺,http://cdn6.cc.cd/163189/amzy
+澳门莲花,http://cdn6.cc.cd/163189/amlh
+香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+环球电视,http://utv1.hqtvzb.com:9999/hls/world.m3u8
+亚洲卫视,https://fenghuang.tv12.xyz/173.m3u8
+重温经典,http://8.138.7.223/tv/cwjd.php
+欧洲卫视,http://oh.eztv.vip/live/eztv1.m3u8
+亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+红牛REDBULL TV,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+Love Nature,https://bamus-lovenature-lg.amagi.tv/1080p-cc/index.m3u8
+Love Nature,https://pb-ehs1glsha1juy.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-ehs1glsha1juy/f2141f37-1f48-475b-ba54-b9efb62346db/0.m3u8
+新加坡CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+香港C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
+耀才财经频道,https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w99771165.m3u8
+TVBS新闻,http://iptv.4666888.xyz/iptv2A.php?id=43
+民视,http://iptv.4666888.xyz/iptv2A.php?id=55
+华艺中文,http://iptv.4666888.xyz/iptv2A.php?id=37
+爱奇艺,http://iptv.4666888.xyz/iptv2A.php?id=21
+靖洋戏剧,http://iptv.4666888.xyz/iptv2A.php?id=42
+靖天电影,http://iptv.4666888.xyz/iptv2A.php?id=56
+东森电影,http://iptv.4666888.xyz/iptv2A.php?id=48
+FGM_gold电影,http://iptv.4666888.xyz/iptv2A.php?id=54
+龙华电影,http://iptv.4666888.xyz/iptv2A.php?id=45
+龙华洋片,http://iptv.4666888.xyz/iptv2A.php?id=60
+风云恐怖电影,http://iptv.4666888.xyz/iptv2A.php?id=59
+ROCK_Action,http://iptv.4666888.xyz/iptv2A.php?id=50
+梦工场动漫,http://iptv.4666888.xyz/iptv2A.php?id=40
+Duck TV儿童卡通,http://iptv.4666888.xyz/iptv2A.php?id=39
+MOMO亲子,http://iptv.4666888.xyz/iptv2A.php?id=49
+金光布袋戏,http://iptv.4666888.xyz/iptv2A.php?id=38
+民视综艺,http://iptv.4666888.xyz/iptv2A.php?id=46
+民视影剧,http://iptv.4666888.xyz/iptv2A.php?id=53
+TVBS精采,http://iptv.4666888.xyz/iptv2A.php?id=47
+台视综合,http://iptv.4666888.xyz/iptv2A.php?id=51
+TVBS台剧,http://iptv.4666888.xyz/iptv2A.php?id=58
+八度空间,http://iptv.4666888.xyz/iptv2A.php?id=52
+韩流美食料理秀,http://iptv.4666888.xyz/iptv2A.php?id=63
+娱乐百分百,http://iptv.4666888.xyz/iptv2A.php?id=64
+综艺大赢家,http://iptv.4666888.xyz/iptv2A.php?id=65
+凤凰中文,http://iptv.4666888.xyz/iptv2A.php?id=19
+TVB黄金华剧,http://iptv.4666888.xyz/iptv2A.php?id=34
+TVB翡翠(马来),http://iptv.4666888.xyz/iptv2A.php?id=28
+TVB明珠,http://iptv.4666888.xyz/iptv2A.php?id=29
+TVBJ1,http://iptv.4666888.xyz/iptv2A.php?id=26
+TVB1,http://iptv.4666888.xyz/iptv2A.php?id=25
+千禧经典,http://iptv.4666888.xyz/iptv2A.php?id=22
+HOY77,http://iptv.4666888.xyz/iptv2A.php?id=35
+TVB-奖门人,http://iptv.4666888.xyz/iptv2A.php?id=31
+TVB-金曲,http://iptv.4666888.xyz/iptv2A.php?id=17
+RTHK31,http://iptv.4666888.xyz/iptv2A.php?id=23
+TVB娱乐新闻,http://iptv.4666888.xyz/iptv2A.php?id=36
+MYTV黄金翡翠,http://iptv.4666888.xyz/iptv2A.php?id=32
+TVB翡翠剧集,http://iptv.4666888.xyz/iptv2A.php?id=33
+TVB-金曲,http://iptv.4666888.xyz/iptv2A.php?id=17
+澳视澳门,http://iptv.4666888.xyz/iptv2A.php?id=41
+中国电影,http://iptv.4666888.xyz/iptv2A.php?id=61
+创世电视,http://iptv.4666888.xyz/iptv2A.php?id=20
+CCTV1综合,http://iptv.4666888.xyz/iptv2A.php?id=7
+CCTV2财经,http://iptv.4666888.xyz/iptv2A.php?id=8
+CCTV3综艺,http://iptv.4666888.xyz/iptv2A.php?id=9
+CCTV14少儿,http://iptv.4666888.xyz/iptv2A.php?id=12
+广东卫视,http://iptv.4666888.xyz/iptv2A.php?id=18
+湖南卫视,http://iptv.4666888.xyz/iptv2A.php?id=13
+浙江卫视,http://iptv.4666888.xyz/iptv2A.php?id=14
+湖北卫视,http://iptv.4666888.xyz/iptv2A.php?id=15
+贵州卫视,http://iptv.4666888.xyz/iptv2A.php?id=16
+FightSports,http://iptv.4666888.xyz/iptv2A.php?id=1
+TntSports1,http://iptv.4666888.xyz/iptv2A.php?id=2
+beINSports1,http://iptv.4666888.xyz/iptv2A.php?id=3
+NowSports1,http://iptv.4666888.xyz/iptv2A.php?id=11
+SkysportsF1,http://iptv.4666888.xyz/iptv2A.php?id=4
+SkySportsFootball,http://iptv.4666888.xyz/iptv2A.php?id=5
+SkyTennis+,http://iptv.4666888.xyz/iptv2A.php?id=6
+博斯高球1,http://iptv.4666888.xyz/iptv2A.php?id=10
+TVBS新闻,http://jnzq.ohoyee.com:9080/live/332332-tvbsxw.m3u8
+寰宇新闻,http://jnzq.ohoyee.com:9080/live/332332-hyxw.m3u8
+民视新闻,http://211.72.174.95:8117/0.ts
+台视新闻,https://live.wcetv.com/hls/master-ttvnews.m3u8
+原视,https://hc9lby9bzw8zcar.wcetv.com/hls/titv.m3u8
+中视,http://211.72.174.95:8113/0.ts
+华视,http://211.72.174.95:8114/0.ts
+民视,http://211.72.174.95:8115/0.ts
+公视,http://211.72.174.95:8116/0.ts
+台视,http://211.72.174.95:8112/0.ts
+东森新闻,http://211.72.174.95:8138/0.ts
+民视,rtmp://f13h.mine.nu/sat/tv051
+中视,rtmp://f13h.mine.nu/sat/tv091
+华视,rtmp://f13h.mine.nu/sat/tv111
+台视,rtmp://f13h.mine.nu/sat/tv071
+中天新闻,rtmp://47.238.2.198/live/888ztxw
+非凡新闻,rtmp://f13h.mine.nu/sat/tv581
+东森超视,rtmp://f13h.mine.nu/sat/tv331
+纬来育乐,rtmp://f13h.mine.nu/sat/tv701
+纬来日本,rtmp://f13h.mine.nu/sat/tv771
+纬来体育,rtmp://f13h.mine.nu/sat/tv721
+DAZN-体育1,rtmp://f13h.mine.nu/sat/tv731
+DAZN-体育2,rtmp://f13h.mine.nu/sat/tv741
+momotv,rtmp://f13h.mine.nu/sat/tv761
+中视,http://220.135.241.47:8301/0.ts
+中视新闻,http://220.135.241.47:8302/0.ts
+中视经典,http://220.135.241.47:8321/0.ts
+中视菁采,http://220.135.241.47:8322/0.ts
+客家电视,http://220.135.241.47:8303/0.ts
+公视,http://220.135.241.47:8305/0.ts
+PTSxs,http://220.135.241.47:8312/0.ts
+公视台语台,http://220.135.241.47:8306/0.ts
+民视,http://220.135.241.47:8308/0.ts
+民视第一台,http://220.135.241.47:8309/0.ts
+民视台湾台,http://220.135.241.47:8311/0.ts
+民视新闻台,http://220.135.241.47:8310/0.ts
+台视,http://220.135.241.47:8313/0.ts
+台视新闻,http://220.135.241.47:8314/0.ts
+台视综合,http://220.135.241.47:8316/0.ts
+台视财经,http://220.135.241.47:8315/0.ts
+华视,http://220.135.241.47:8317/0.ts
+华视新闻资讯,http://220.135.241.47:8319/0.ts
+华视教育体育文化,http://220.135.241.47:8318/0.ts
 TEMP,#genre#
 NOW新闻台,https://fast.hidns.vip/163189/now
 [Cx]Now新闻,http://rihou.cc:555/tv/[Cx]Now新闻
