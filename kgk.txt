@@ -1114,6 +1114,106 @@ INULTRA,http://159.75.4.149:99/清风/iptv.php?token=2edec56e728c4511f1ec62f11b7
 居家乐活频道,http://159.75.4.149:99/清风/iptv.php?token=2edec56e728c4511f1ec62f11b746dec&ch=e414ea0ccd4629c4
 CI罪案偵查頻道,http://159.75.4.149:99/清风/iptv.php?token=2edec56e728c4511f1ec62f11b746dec&ch=76e6aebb3df148a4
 亚洲美食频道,http://159.75.4.149:99/清风/iptv.php?token=2edec56e728c4511f1ec62f11b746dec&ch=45f14bcc0123b4a1
+日本频道159,#genre#
+NHK World Premium,http://159.75.4.149:99/清风/iptv.php?token=2edec56e728c4511f1ec62f11b746dec&ch=d3305b78a6799ee8
+NHK World Premium,http://159.75.4.149:99/清风/iptv.php?token=2edec56e728c4511f1ec62f11b746dec&ch=fcd716a8e77a4c92
+NHK総合ロゴ,http://159.75.4.149:99/清风/iptv.php?token=2edec56e728c4511f1ec62f11b746dec&ch=52b08e75f635bd10
+NHKEテレロゴ,http://159.75.4.149:99/清风/iptv.php?token=2edec56e728c4511f1ec62f11b746dec&ch=461a584a212776c7
+NHKEテレロゴ,http://159.75.4.149:99/清风/iptv.php?token=2edec56e728c4511f1ec62f11b746dec&ch=9b68bebaafc252d2
+日本テレビ,http://159.75.4.149:99/清风/iptv.php?token=2edec56e728c4511f1ec62f11b746dec&ch=dbffc3703539136a
+日テレプラス,http://159.75.4.149:99/清风/iptv.php?token=2edec56e728c4511f1ec62f11b746dec&ch=dc9448df684b1daa
+日テレ News,http://159.75.4.149:99/清风/iptv.php?token=2edec56e728c4511f1ec62f11b746dec&ch=3f84fd092170be12
+TBSテレビ,http://159.75.4.149:99/清风/iptv.php?token=2edec56e728c4511f1ec62f11b746dec&ch=4f2a014c332485a4
+ＴＢＳニュースバード,http://159.75.4.149:99/清风/iptv.php?token=2edec56e728c4511f1ec62f11b746dec&ch=5eb33314c6d67742
+NHK World Japan,http://159.75.4.149:99/清风/iptv.php?token=2edec56e728c4511f1ec62f11b746dec&ch=12ad595898b42f45
+NHK World Japan,http://159.75.4.149:99/清风/iptv.php?token=2edec56e728c4511f1ec62f11b746dec&ch=45b9b8bd405de741
+フジテレビ,http://159.75.4.149:99/清风/iptv.php?token=2edec56e728c4511f1ec62f11b746dec&ch=54a9dab08a83550c
+フジテレビ,http://159.75.4.149:99/清风/iptv.php?token=2edec56e728c4511f1ec62f11b746dec&ch=c17c63c49e0e8201
+テレビ朝日,http://159.75.4.149:99/清风/iptv.php?token=2edec56e728c4511f1ec62f11b746dec&ch=bcab70a6f66efe24
+テレビ東京,http://159.75.4.149:99/清风/iptv.php?token=2edec56e728c4511f1ec62f11b746dec&ch=fdb4aee2b01db770
+TOKYOMX1,http://159.75.4.149:99/清风/iptv.php?token=2edec56e728c4511f1ec62f11b746dec&ch=f45132caa1fe4679
+TOKYOMX2,http://159.75.4.149:99/清风/iptv.php?token=2edec56e728c4511f1ec62f11b746dec&ch=40a58394bba7bcfa
+MBS毎日放送,http://159.75.4.149:99/清风/iptv.php?token=2edec56e728c4511f1ec62f11b746dec&ch=9ff0c046d85a75b6
+ABCテレビ,http://159.75.4.149:99/清风/iptv.php?token=2edec56e728c4511f1ec62f11b746dec&ch=df7e7d7adc8746e4
+関西テレビ,http://159.75.4.149:99/清风/iptv.php?token=2edec56e728c4511f1ec62f11b746dec&ch=f1ed14d26714f7cc
+よみうりテレビ,http://159.75.4.149:99/清风/iptv.php?token=2edec56e728c4511f1ec62f11b746dec&ch=89842fb3bfc29218
+テレビ大阪,http://159.75.4.149:99/清风/iptv.php?token=2edec56e728c4511f1ec62f11b746dec&ch=66411c30a2b92fe3
+サンテレビ,http://159.75.4.149:99/清风/iptv.php?token=2edec56e728c4511f1ec62f11b746dec&ch=e48473437d23ce32
+NHKBS,http://159.75.4.149:99/清风/iptv.php?token=2edec56e728c4511f1ec62f11b746dec&ch=c7446060e8f73a7e
+NHKBS,http://159.75.4.149:99/清风/iptv.php?token=2edec56e728c4511f1ec62f11b746dec&ch=06579caf503d1cf1
+KBS京都,http://159.75.4.149:99/清风/iptv.php?token=2edec56e728c4511f1ec62f11b746dec&ch=c845ee3da5ab0464
+BS朝日,http://159.75.4.149:99/清风/iptv.php?token=2edec56e728c4511f1ec62f11b746dec&ch=6e1992b7d6785427
+BS-TBS,http://159.75.4.149:99/清风/iptv.php?token=2edec56e728c4511f1ec62f11b746dec&ch=a4bc190326681b84
+BSテレ東,http://159.75.4.149:99/清风/iptv.php?token=2edec56e728c4511f1ec62f11b746dec&ch=4fe4c55c109dbeed
+BSジャパン,http://159.75.4.149:99/清风/iptv.php?token=2edec56e728c4511f1ec62f11b746dec&ch=3c6713bcf90202f9
+BSフジ,http://159.75.4.149:99/清风/iptv.php?token=2edec56e728c4511f1ec62f11b746dec&ch=0676e1b4490634fc
+BS10,http://159.75.4.149:99/清风/iptv.php?token=2edec56e728c4511f1ec62f11b746dec&ch=8544499871276b10
+BS10スターチャンネル,http://159.75.4.149:99/清风/iptv.php?token=2edec56e728c4511f1ec62f11b746dec&ch=e434b679a5214d5d
+BS 11,http://159.75.4.149:99/清风/iptv.php?token=2edec56e728c4511f1ec62f11b746dec&ch=54e9e7091a4bfe94
+BS 12トゥエルビ,http://159.75.4.149:99/清风/iptv.php?token=2edec56e728c4511f1ec62f11b746dec&ch=057b160023d82195
+WOWOWプライム,http://159.75.4.149:99/清风/iptv.php?token=2edec56e728c4511f1ec62f11b746dec&ch=c9a53540a479db77
+WOWOWライブ,http://159.75.4.149:99/清风/iptv.php?token=2edec56e728c4511f1ec62f11b746dec&ch=eb298be0a3871964
+WOWOWシネマ,http://159.75.4.149:99/清风/iptv.php?token=2edec56e728c4511f1ec62f11b746dec&ch=31c6eb1cf53ecf65
+WOWOWプラス,http://159.75.4.149:99/清风/iptv.php?token=2edec56e728c4511f1ec62f11b746dec&ch=c20e53617e8355b4
+スターチャンネル1,http://159.75.4.149:99/清风/iptv.php?token=2edec56e728c4511f1ec62f11b746dec&ch=71ca0e364ab477a6
+ＴＢＳチャンネル１,http://159.75.4.149:99/清风/iptv.php?token=2edec56e728c4511f1ec62f11b746dec&ch=df20e6bb147efb9c
+ＴＢＳチャンネル２,http://159.75.4.149:99/清风/iptv.php?token=2edec56e728c4511f1ec62f11b746dec&ch=1623b6083dd15985
+テレ朝チャンネル１,http://159.75.4.149:99/清风/iptv.php?token=2edec56e728c4511f1ec62f11b746dec&ch=23b45e8052db6b1e
+テレ朝チャンネル２,http://159.75.4.149:99/清风/iptv.php?token=2edec56e728c4511f1ec62f11b746dec&ch=4a491cbaa0568c7f
+フジテレビＯＮＥ,http://159.75.4.149:99/清风/iptv.php?token=2edec56e728c4511f1ec62f11b746dec&ch=f79440af0f68bc87
+フジテレビＴＷＯ,http://159.75.4.149:99/清风/iptv.php?token=2edec56e728c4511f1ec62f11b746dec&ch=cfe3bcffab6c5ca4
+フジテレビＮＥＸＴ,http://159.75.4.149:99/清风/iptv.php?token=2edec56e728c4511f1ec62f11b746dec&ch=872c0e4594207080
+グリーンチャンネル,http://159.75.4.149:99/清风/iptv.php?token=2edec56e728c4511f1ec62f11b746dec&ch=44e80a7a3c53113d
+チャンネル銀河,http://159.75.4.149:99/清风/iptv.php?token=2edec56e728c4511f1ec62f11b746dec&ch=4990c1c98a3718bc
+釣りビジョン,http://159.75.4.149:99/清风/iptv.php?token=2edec56e728c4511f1ec62f11b746dec&ch=19edacc19a0b1111
+JSPORTS 1,http://159.75.4.149:99/清风/iptv.php?token=2edec56e728c4511f1ec62f11b746dec&ch=30fb81f41c43cfc2
+JSPORTS 2,http://159.75.4.149:99/清风/iptv.php?token=2edec56e728c4511f1ec62f11b746dec&ch=6814aea3f8a86ebf
+JSPORTS 3,http://159.75.4.149:99/清风/iptv.php?token=2edec56e728c4511f1ec62f11b746dec&ch=9a7793c6be73dbd5
+JSPORTS 4,http://159.75.4.149:99/清风/iptv.php?token=2edec56e728c4511f1ec62f11b746dec&ch=fe4a34f84339b95c
+GaoraSports,http://159.75.4.149:99/清风/iptv.php?token=2edec56e728c4511f1ec62f11b746dec&ch=21132897be7dc377
+GolfNetwork,http://159.75.4.149:99/清风/iptv.php?token=2edec56e728c4511f1ec62f11b746dec&ch=8e74e9f62dfd7b84
+スポーツライブ＋,http://159.75.4.149:99/清风/iptv.php?token=2edec56e728c4511f1ec62f11b746dec&ch=95956f1c830715ba
+日テレジータス,http://159.75.4.149:99/清风/iptv.php?token=2edec56e728c4511f1ec62f11b746dec&ch=72b6e800bae954fe
+日本映画専門チャンネル,http://159.75.4.149:99/清风/iptv.php?token=2edec56e728c4511f1ec62f11b746dec&ch=6050d34b630aa7c5
+旅チャンネル,http://159.75.4.149:99/清风/iptv.php?token=2edec56e728c4511f1ec62f11b746dec&ch=6139bb5bb415d349
+ホームドラマチャンネル,http://159.75.4.149:99/清风/iptv.php?token=2edec56e728c4511f1ec62f11b746dec&ch=357c95d62b737995
+鉄道チャンネル,http://159.75.4.149:99/清风/iptv.php?token=2edec56e728c4511f1ec62f11b746dec&ch=436761e27a41a85a
+東映チャンネル,http://159.75.4.149:99/清风/iptv.php?token=2edec56e728c4511f1ec62f11b746dec&ch=934d609331db75bd
+衛星劇場,http://159.75.4.149:99/清风/iptv.php?token=2edec56e728c4511f1ec62f11b746dec&ch=7540fd092518e051
+ファミリー劇場,http://159.75.4.149:99/清风/iptv.php?token=2edec56e728c4511f1ec62f11b746dec&ch=eab73979d317e3bc
+時代劇専門チャンネル,http://159.75.4.149:99/清风/iptv.php?token=2edec56e728c4511f1ec62f11b746dec&ch=41e64412c5d3b9db
+MONDO TV,http://159.75.4.149:99/清风/iptv.php?token=2edec56e728c4511f1ec62f11b746dec&ch=aea3bbdd9bb785e3
+スカイA,http://159.75.4.149:99/清风/iptv.php?token=2edec56e728c4511f1ec62f11b746dec&ch=f00ff406e10a0b9e
+ザシネマ,http://159.75.4.149:99/清风/iptv.php?token=2edec56e728c4511f1ec62f11b746dec&ch=15c7ff97a771c894
+NHK,http://159.75.4.149:99/清风/iptv.php?token=2edec56e728c4511f1ec62f11b746dec&ch=9ab1d0032b078271
+NHK BSP4K,http://159.75.4.149:99/清风/iptv.php?token=2edec56e728c4511f1ec62f11b746dec&ch=aa7593c1e361defb
+スーパー！ドラマＴＶ,http://159.75.4.149:99/清风/iptv.php?token=2edec56e728c4511f1ec62f11b746dec&ch=ae5862dbadbb4b8b
+ムービープラス,http://159.75.4.149:99/清风/iptv.php?token=2edec56e728c4511f1ec62f11b746dec&ch=c78819a8d8d50c42
+映画・チャンネルNECO,http://159.75.4.149:99/清风/iptv.php?token=2edec56e728c4511f1ec62f11b746dec&ch=65042d025c5467d6
+ＡＸＮ 海外ドラマ,http://159.75.4.149:99/清风/iptv.php?token=2edec56e728c4511f1ec62f11b746dec&ch=a2734bf16a35cd0b
+AXNミステリー,http://159.75.4.149:99/清风/iptv.php?token=2edec56e728c4511f1ec62f11b746dec&ch=62b26dd871044009
+DLife,http://159.75.4.149:99/清风/iptv.php?token=2edec56e728c4511f1ec62f11b746dec&ch=7847af4ac4f25344
+FightingTV サムライ,http://159.75.4.149:99/清风/iptv.php?token=2edec56e728c4511f1ec62f11b746dec&ch=7830e191969d63fb
+Ｖ☆パラダイス,http://159.75.4.149:99/清风/iptv.php?token=2edec56e728c4511f1ec62f11b746dec&ch=657dc2885713b0cf
+エンタメ～テレ☆シネドラバラエティ,http://159.75.4.149:99/清风/iptv.php?token=2edec56e728c4511f1ec62f11b746dec&ch=121a958299149b56
+100％ヒッツ！スペースシャワーTV プラス,http://159.75.4.149:99/清风/iptv.php?token=2edec56e728c4511f1ec62f11b746dec&ch=f15b4bd9d3a6fc55
+女性チャンネル♪LaLa TV,http://159.75.4.149:99/清风/iptv.php?token=2edec56e728c4511f1ec62f11b746dec&ch=f73f98b4af6f0b1b
+スカチャン1,http://159.75.4.149:99/清风/iptv.php?token=2edec56e728c4511f1ec62f11b746dec&ch=ca7906d842f886da
+歌謡ポップスチャンネル,http://159.75.4.149:99/清风/iptv.php?token=2edec56e728c4511f1ec62f11b746dec&ch=84d5367b79e40e0d
+MusicJapanTV,http://159.75.4.149:99/清风/iptv.php?token=2edec56e728c4511f1ec62f11b746dec&ch=9907ded1a34f3b31
+MUSIC ON! TV（エムオン!）,http://159.75.4.149:99/清风/iptv.php?token=2edec56e728c4511f1ec62f11b746dec&ch=e7bfe3130f7827c5
+ミュージック・エア,http://159.75.4.149:99/清风/iptv.php?token=2edec56e728c4511f1ec62f11b746dec&ch=8712ae795a253240
+MTV,http://159.75.4.149:99/清风/iptv.php?token=2edec56e728c4511f1ec62f11b746dec&ch=99f7aba33ff36bd6
+スペースシャワーTV,http://159.75.4.149:99/清风/iptv.php?token=2edec56e728c4511f1ec62f11b746dec&ch=3832b593370bcc6e
+BSアニマックス,http://159.75.4.149:99/清风/iptv.php?token=2edec56e728c4511f1ec62f11b746dec&ch=7cf70af907e01d69
+キッズステーション,http://159.75.4.149:99/清风/iptv.php?token=2edec56e728c4511f1ec62f11b746dec&ch=355d7dcd53c63db2
+アニメシアターX（AT-X),http://159.75.4.149:99/清风/iptv.php?token=2edec56e728c4511f1ec62f11b746dec&ch=fa96280b5c3a972e
+ディズニージュニア,http://159.75.4.149:99/清风/iptv.php?token=2edec56e728c4511f1ec62f11b746dec&ch=f54c84490cf5f935
+ディズニーチャンネル,http://159.75.4.149:99/清风/iptv.php?token=2edec56e728c4511f1ec62f11b746dec&ch=84e82aab15a9e7a4
+ヒストリーチャンネル,http://159.75.4.149:99/清风/iptv.php?token=2edec56e728c4511f1ec62f11b746dec&ch=8ad8095ac703be52
+ナショナルジオグラフィック,http://159.75.4.149:99/清风/iptv.php?token=2edec56e728c4511f1ec62f11b746dec&ch=d145236613643dec
+TAKARAZUKA SKY STAGE,http://159.75.4.149:99/清风/iptv.php?token=2edec56e728c4511f1ec62f11b746dec&ch=461f070adb79aa0b
+CNNJ,http://159.75.4.149:99/清风/iptv.php?token=2edec56e728c4511f1ec62f11b746dec&ch=d0bb639dad6abb89
 港澳频道,#genre#
 千禧经典台,http://cdn3.123.rr.kg/stream/live/tvbc/
 TVB星河2,http://cdn6.123.rr.kg/163189/tvbxh
