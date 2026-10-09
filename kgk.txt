@@ -194,15 +194,23 @@ ROCK_Action,http://iptv.4666888.xyz/iptv2A.php?id=50
 台视综合,http://iptv.4666888.xyz/iptv2A.php?id=51
 民视影剧,http://iptv.4666888.xyz/iptv2A.php?id=53
 中视经典,http://iptv.4666888.xyz/iptv2A.php?id=54
-TVB频道,#genre#
+other频道,#genre#
+无线新闻http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=Bu41vu&tk=DltXAENUzogE
+翡翠台,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=7eJsks&tk=DltXAENUzogE
+TVB生活台,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=URJfeL&tk=DltXAENUzogE
+Now爆谷台,http://bak.dou.ddns-ip.net/api.php?n=HKTV&id=yHuKNv&tk=DltXAENUzogE
 TVB翡翠劇集台,https://amg01868-amg01868c5-tvbanywhere-us-4493.playouts.now.amagi.tv/playlist/amg01868-tvbusa-tvbdrama-tvbanywhereus/playlist.m3u8
 TVB1,https://amg01868-amg01868c4-tvbanywhere-us-4492.playouts.now.amagi.tv/playlist/amg01868-tvbusa-tvb1-tvbanywhereus/playlist.m3u8
 TVB無綫新聞台,https://amg01868-amg01868c2-tvbanywhere-us-4490.playouts.now.amagi.tv/playlist/amg01868-tvbusa-tvbnews-tvbanywhereus/playlist.m3u8
 TVB越南台,https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist/amg01868-tvbusa-tvbvietnam-tvbanywhereus/playlist.m3u8
 HOY78,https://fast.hidns.vip/163189/hoy78
 HOY76,https://cdn11.163189.xyz/163189/hoy76
+HOY 78,http://cdn.123.rr.kg/163189/hoy78
 ViuTV,https://10.fast.hidns.vip/163189/viu/
 NOW新闻台,https://fast.hidns.vip/163189/now
+NOW新闻台s,http://173.208.234.146/live/nowxw.m3u8
+凤凰资讯台,http://173.208.234.146/live/fhzx.m3u8
+
 港澳频道,#genre#
 千禧经典台,http://cdn3.123.rr.kg/stream/live/tvbc/
 TVB星河2,http://cdn6.123.rr.kg/163189/tvbxh
