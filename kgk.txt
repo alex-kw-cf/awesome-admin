@@ -199,6 +199,10 @@ TVB翡翠劇集台,https://amg01868-amg01868c5-tvbanywhere-us-4493.playouts.now.
 TVB1,https://amg01868-amg01868c4-tvbanywhere-us-4492.playouts.now.amagi.tv/playlist/amg01868-tvbusa-tvb1-tvbanywhereus/playlist.m3u8
 TVB無綫新聞台,https://amg01868-amg01868c2-tvbanywhere-us-4490.playouts.now.amagi.tv/playlist/amg01868-tvbusa-tvbnews-tvbanywhereus/playlist.m3u8
 TVB越南台,https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist/amg01868-tvbusa-tvbvietnam-tvbanywhereus/playlist.m3u8
+HOY78,https://fast.hidns.vip/163189/hoy78
+HOY76,https://cdn11.163189.xyz/163189/hoy76
+ViuTV,https://10.fast.hidns.vip/163189/viu/
+NOW新闻台,https://fast.hidns.vip/163189/now
 港澳频道,#genre#
 千禧经典台,http://cdn3.123.rr.kg/stream/live/tvbc/
 TVB星河2,http://cdn6.123.rr.kg/163189/tvbxh
