@@ -15,6 +15,115 @@ CCTV-13新闻,http://173.208.212.130:8181/720p/cctv13.m3u8
 CCTV-13新闻,http://173.208.212.130:8181/1080p/cctv13.m3u8
 CCTV-1综合,http://204.12.221.218:8181/3m1080p/cctv1.m3u8
 CCTV-1综合,http://173.208.212.130:8181/1080p/cctv1.m3u8
+Hami,#genre#
+Hami大聯盟1,http://149.28.27.195:2082/proxy?url=http://good.852851.xyz/l/vGdonBvQhadHaTxDFNwYGLvVIwxaeu9SfEw_TJZ29O7fPjTqXu9gFohz4Cuv4vfb/index.m3u8
+Hami大聯盟2,http://149.28.27.195:2082/proxy?url=http://good.852851.xyz/l/kMD0EcM8vzx-VVTH7Pnq76O2Mia-TDDXtvTU70-OYCL-5q6AXil4ckT9QQJzo3-z/index.m3u8
+Hami足球1,http://149.28.27.195:2082/proxy?url=http://good.852851.xyz/l/7BbLfHYaDt_HSjnBOILtp4c4i0fCqrdHkV8oX2fWWR8vn1Tyq9Xh2Lbi9BXarkxM/index.m3u8
+Hami WBC1,http://149.28.27.195:2082/proxy?url=http://good.852851.xyz/l/2Zzgarj65AhJcGOZdQ26TxJ0lAK0NleXOelkQ0yuepI7bw8J7MPt8x0uL05w76du/index.m3u8
+Hami體育1,http://149.28.27.195:2082/proxy?url=http://good.852851.xyz/l/b2X-7o9JPQ1pfscmFGpuQ4SwMRslr0QU0-2uGcGzPdkJjaMV75PZhJubZDX4nmOJ/index.m3u8
+愛爾達綜合,http://149.28.27.195:2082/proxy?url=http://good.852851.xyz/l/Xf_NSUThAJoqBi-_Kf6ykYTOWq7IdYxfmr_fWkzuguY9rEFcRbXCQKYkbdbFbJ_L/index.m3u8
+愛爾達日韓,http://149.28.27.195:2082/proxy?url=http://good.852851.xyz/l/fIRa_sOfWVbbphfLo4Si6UWxA6pWkCoy21nL_d9r8ECLJ65nGECTjQokeaIWi0vf/index.m3u8
+愛爾達影劇,http://149.28.27.195:2082/proxy?url=http://good.852851.xyz/l/JPyoex57F2kgYc_KKE7yzU1BRfV-ozMkRMjJtnfPA6w_4AHgz9oh-_GfXRWRImrM/index.m3u8
+愛爾達寵物運動,http://149.28.27.195:2082/proxy?url=http://good.852851.xyz/l/PhV3nSx1mQ0J0FGKtKwCaiFdj_85DV7a_L9Oa2ITfeKstvXc4e6bHM4DTMzCAfZU/index.m3u8
+愛爾達體育1,http://149.28.27.195:2082/proxy?url=http://good.852851.xyz/l/Byxz7aIYu-Svj4xNkBwB8Ppl_mRBb4L5HkHRkSv0wr7BL4WruSxMAJCQyjnEohBJ/index.m3u8
+愛爾達體育2,http://149.28.27.195:2082/proxy?url=http://good.852851.xyz/l/aStf1FSUSf8snPbic0F1SstJxQ8Zf67SfWgbaGwsj9T59A8mbpgl2sA2DssFwuU4/index.m3u8
+愛爾達體育3,http://149.28.27.195:2082/proxy?url=http://good.852851.xyz/l/cnFczdNiI5Qix7hLwPjhLT0ui6n6Zt4h-i6-yLzciYTvoZOE7oYtiVpDxHGKu7je/index.m3u8
+愛爾達體育4,http://149.28.27.195:2082/proxy?url=http://good.852851.xyz/l/OLdNqI-gwgz-aCkQoFATozA-Y9WAy9fIok90QD9kvYeocmRggZerLf8X4RHY3YqC/index.m3u8
+愛爾達體育MAX1,http://149.28.27.195:2082/proxy?url=http://good.852851.xyz/l/adhbGSJzt9TUp9C7bQR3optdGP6gThGy1bGg0lyLBWIZwcNhNmqtALaInLnHO7FP/index.m3u8
+愛爾達體育MAX2,http://149.28.27.195:2082/proxy?url=http://good.852851.xyz/l/GM-tXKiVKM2KrCUjg7OKOsncR9IhrYOJsgEJmZ0X0ZqAGKq2q5J2DsWroIVw7AKJ/index.m3u8
+愛爾達體育MAX3,http://149.28.27.195:2082/proxy?url=http://good.852851.xyz/l/yqSM1Qz4xLP0PnIJj7wDRID23ATzy1Yr1fNmz5BdVvJPU5lszGJyw7OhGxUS0pfC/index.m3u8
+愛爾達體育MAX4,http://149.28.27.195:2082/proxy?url=http://good.852851.xyz/l/NcMEFyI3TOyh7_zVY72tc4jO--6WWtAZzIdQ13ticR2IZDx6o1i7qQZoAPCvw_su/index.m3u8
+
+2个单独推流,#genre#
+美亞電影台HK,http://149.28.27.195:2052/l/BTvc4JAlYXj6OxI1kenQxWrhLyXfo9Z2mMqBYDRiPV7_uJxygQdexyb46-NKk06n/index.m3u8
+PopC,http://149.28.27.195:2052/l/sW1Kmqw5TYOXnRcTed3kO4q90GVX3s3c1rj84HS2QdMQSzHy1-fIbjSv6zfNiWwW/index.m3u8
+
+JackTV,#genre#
+翡翠台,http://149.28.27.195:2082/proxy?url=https://cdn.qd.je/163189/fct
+翡翠台4K「字幕」,http://149.28.27.195:2082/proxy?url=https://cdn.qd.je/163189/fct4k
+翡翠台「字幕」,http://149.28.27.195:2082/proxy?url=https://cdn.qd.je/163189/fct2
+翡翠台「WebVTT字幕」,http://149.28.27.195:2082/proxy?url=https://cdn.qd.je/163189/fctvtt
+無綫新聞台,http://149.28.27.195:2082/proxy?url=https://cdn.qd.je/163189/wxxw
+無綫新聞台,http://149.28.27.195:2082/proxy?url=https://cdn.qd.je/163189/wxxwt
+明珠台「字幕」,http://149.28.27.195:2082/proxy?url=https://cdn.qd.je/163189/mzt
+明珠台「WebVTT字幕」,http://149.28.27.195:2082/proxy?url=https://cdn.qd.je/163189/mztvtt
+TVB Plus,http://149.28.27.195:2082/proxy?url=https://cdn.qd.je/163189/tvbp2
+TVB Plus「字幕」,http://149.28.27.195:2082/proxy?url=https://cdn.qd.je/163189/tvbp
+TVB Plus「WebVTT字幕」,http://149.28.27.195:2082/proxy?url=https://cdn.qd.je/163189/tvbpvtt
+黃金華劇台「WebVTT字幕」,http://149.28.27.195:2082/proxy?url=https://cdn.qd.je/163189/hjhjt
+Now新聞台,http://149.28.27.195:2082/proxy?url=https://cdn.qd.je/163189/now
+凤凰中文台,http://149.28.27.195:2082/proxy?url=https://cdn.qd.je/163189/fhzw
+凤凰资讯台,http://149.28.27.195:2082/proxy?url=https://cdn.qd.je/163189/fhzx
+凤凰香港台,http://149.28.27.195:2082/proxy?url=https://cdn.qd.je/163189/fhhk
+HOY TV,http://149.28.27.195:2082/proxy?url=https://cdn.qd.je/163189/hoy
+HOY TV,http://149.28.27.195:2082/proxy?url=https://cdn.qd.je/163189/hoy2
+HOY 資訊台,http://149.28.27.195:2082/proxy?url=https://cdn.qd.je/163189/hoy78
+HOY 國際財經台,http://149.28.27.195:2082/proxy?url=https://cdn.qd.je/163189/hoy76
+ViuTV,http://149.28.27.195:2082/proxy?url=https://cdn.qd.je/163189/viu
+ViuTVsix,http://149.28.27.195:2082/proxy?url=https://cdn.qd.je/163189/viu6
+RTHK31,http://149.28.27.195:2082/proxy?url=https://cdn.qd.je/163189/rthk31
+RTHK32,http://149.28.27.195:2082/proxy?url=https://cdn.qd.je/163189/rthk32
+RTHK33,http://149.28.27.195:2082/proxy?url=https://cdn.qd.je/163189/rthk33
+千禧經典台,http://149.28.27.195:2082/proxy?url=https://cdn.qd.je/163189/tvbc
+娛樂新聞台,http://149.28.27.195:2082/proxy?url=https://cdn.qd.je/163189/ylxw
+华丽翡翠台,http://149.28.27.195:2082/proxy?url=https://cdn.qd.je/163189/hlt
+华丽翡翠台「硬字幕」,http://149.28.27.195:2082/proxy?url=https://cdn.qd.je/163189/jade
+华丽翡翠台「新加坡」,http://149.28.27.195:2082/proxy?url=https://cdn.qd.je/163189/hlfct
+华丽翡翠台「新加坡」,http://149.28.27.195:2082/proxy?url=https://cdn.qd.je/163189/jade2
+TVB1,http://149.28.27.195:2082/proxy?url=https://cdn.qd.je/163189/tvb1
+TVBJ1,http://149.28.27.195:2082/proxy?url=https://cdn.qd.je/163189/j1
+TVB Drama,http://149.28.27.195:2082/proxy?url=https://cdn.qd.je/163189/tvbd
+TVB 功夫台,http://149.28.27.195:2082/proxy?url=https://cdn.qd.je/163189/yzwx
+TVB 星河台,http://149.28.27.195:2082/proxy?url=https://cdn.qd.je/163189/tvbxh
+TVB 星河台,http://149.28.27.195:2082/proxy?url=https://cdn.qd.je/163189/xinghe
+TVB 星河台,http://149.28.27.195:2082/proxy?url=https://cdn.qd.je/163189/tvbxh2
+澳視澳門,http://149.28.27.195:2082/proxy?url=https://cdn.qd.je/163189/asam
+澳門衛星,http://149.28.27.195:2082/proxy?url=https://cdn.qd.je/163189/as
+澳門體育,http://149.28.27.195:2082/proxy?url=https://cdn.qd.je/163189/amty
+澳門綜藝,http://149.28.27.195:2082/proxy?url=https://cdn.qd.je/163189/amzy
+澳門蓮花,http://149.28.27.195:2082/proxy?url=https://cdn.qd.je/163189/amlh
+天映頻道「新加坡」,http://149.28.27.195:2082/proxy?url=https://cdn.qd.je/163189/typd
+天映經典「新加坡」,http://149.28.27.195:2082/proxy?url=https://cdn.qd.je/163189/ccm
+天映頻道「马来西亚」,http://149.28.27.195:2082/proxy?url=https://cdn.qd.je/163189/typd2
+天映經典「馬來西亞」,http://149.28.27.195:2082/proxy?url=https://cdn.qd.je/163189/ccm2
+Astro AOD,http://149.28.27.195:2082/proxy?url=https://cdn.qd.je/163189/aod
+Astro 歡喜台,http://149.28.27.195:2082/proxy?url=https://cdn.qd.je/163189/hxt
+iQIYI,http://149.28.27.195:2082/proxy?url=https://cdn.qd.je/163189/iqiyi
+八度空間,http://149.28.27.195:2082/proxy?url=https://cdn.qd.je/163189/8tv
+Channel 5,http://149.28.27.195:2082/proxy?url=https://cdn.qd.je/163189/ch5
+Channel 8,http://149.28.27.195:2082/proxy?url=https://cdn.qd.je/163189/ch8
+Channel U,http://149.28.27.195:2082/proxy?url=https://cdn.qd.je/163189/chu
+龍華電影台,http://149.28.27.195:2082/proxy?url=https://cdn.qd.je/163189/lhdy
+龍華經典台,http://149.28.27.195:2082/proxy?url=https://cdn.qd.je/163189/lhjd
+龍華偶像台,http://149.28.27.195:2082/proxy?url=https://cdn.qd.je/163189/lhox
+龍華日韓台,http://149.28.27.195:2082/proxy?url=https://cdn.qd.je/163189/lhrh
+龍華戲劇台,http://149.28.27.195:2082/proxy?url=https://cdn.qd.je/163189/lhxj
+龍華洋片台,http://149.28.27.195:2082/proxy?url=https://cdn.qd.je/163189/lhyp
+龍華卡通台,http://149.28.27.195:2082/proxy?url=https://cdn.qd.je/163189/lhkt
+金光布袋戲,http://149.28.27.195:2082/proxy?url=https://cdn.qd.je/163189/jgbdx
+金光布袋戲,http://149.28.27.195:2082/proxy?url=https://cdn.qd.je/163189/jgbdx2
+民視影劇台,http://149.28.27.195:2082/proxy?url=https://cdn.qd.je/163189/msyj
+公視戲劇,http://149.28.27.195:2082/proxy?url=https://cdn.qd.je/163189/gsxj
+采昌影劇台,http://149.28.27.195:2082/proxy?url=https://cdn.qd.je/163189/ccyj
+靖天映畫,http://149.28.27.195:2082/proxy?url=https://cdn.qd.je/163189/jtyh
+靖天戲劇台,http://149.28.27.195:2082/proxy?url=https://cdn.qd.je/163189/jtxj
+靖天電影台,http://149.28.27.195:2082/proxy?url=https://cdn.qd.je/163189/jtdy
+靖洋戲劇台,http://149.28.27.195:2082/proxy?url=https://cdn.qd.je/163189/jyxj
+影迷數位電影台,http://149.28.27.195:2082/proxy?url=https://cdn.qd.je/163189/ymswdyt
+amc電影台,http://149.28.27.195:2082/proxy?url=https://cdn.qd.je/163189/amc
+CinemaWorld,http://149.28.27.195:2082/proxy?url=https://cdn.qd.je/163189/cinemaworld
+MCE 我的歐洲電影,http://149.28.27.195:2082/proxy?url=https://cdn.qd.je/163189/mce
+經典電影台,http://149.28.27.195:2082/proxy?url=https://cdn.qd.je/163189/jddyt
+電影原聲台CMusic,http://149.28.27.195:2082/proxy?url=https://cdn.qd.je/163189/cmusic
+DreamWorks 夢工廠動畫,http://149.28.27.195:2082/proxy?url=https://cdn.qd.je/163189/dreamworks
+精選動漫台,http://149.28.27.195:2082/proxy?url=https://cdn.qd.je/163189/jxdmt
+緯來電影台,http://149.28.27.195:2082/proxy?url=https://cdn.qd.je/163189/wldy
+緯來戲劇台,http://149.28.27.195:2082/proxy?url=https://cdn.qd.je/163189/wlxj
+緯來體育台,http://149.28.27.195:2082/proxy?url=https://cdn.qd.je/163189/wlty
+龍祥時代,http://149.28.27.195:2082/proxy?url=https://cdn.qd.je/163189/lxsd
+東森電影台,http://149.28.27.195:2082/proxy?url=https://cdn.qd.je/163189/dsdy
+東森戲劇台,http://149.28.27.195:2082/proxy?url=https://cdn.qd.je/163189/dsxj
+東森洋片台,http://149.28.27.195:2082/proxy?url=https://cdn.qd.je/163189/dsyp
 中国香港cdn,#genre#
 千禧经典台,http://cdn3.123.rr.kg/stream/live/tvbc/
 八度空间,http://cdn6.123.rr.kg/163189/8tv
