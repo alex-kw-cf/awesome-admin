@@ -1,7 +1,11 @@
 新闻,#genre#
 HOY78,https://fast.hidns.vip/163189/hoy78
 NOW新闻台,https://fast.hidns.vip/163189/now
+NOW新闻台s,http://173.208.234.146/live/nowxw.m3u8
 无线新闻台,https://amg01868-amg01868c2-tvbanywhere-us-4490.playouts.now.amagi.tv/playlist/amg01868-tvbusa-tvbnews-tvbanywhereus/playlist.m3u8
+无线新闻台1,http://cdn6.123.rr.kg/163189/wxxw
+无线新闻台2,http://cdn6.123.rr.kg/163189/wxxwt
+凤凰资讯台,http://173.208.234.146/live/fhzx.m3u8
 凤凰资讯HD,http://zmgd.zyrnet.com:8888/hls/109/index.m3u8
 凤凰资讯,http://218.104.239.114:9901/tsfile/live/1012_1.m3u8
 凤凰资讯m,http://156.238.224.170:7001/fhx.php?id=info
@@ -9,6 +13,8 @@ NOW新闻台,https://fast.hidns.vip/163189/now
 CCTV-13新闻,http://204.12.221.218:8181/3m1080p/cctv13.m3u8
 CCTV-13新闻,http://173.208.212.130:8181/720p/cctv13.m3u8
 CCTV-13新闻,http://173.208.212.130:8181/1080p/cctv13.m3u8
+CCTV-1综合,http://204.12.221.218:8181/3m1080p/cctv1.m3u8
+CCTV-1综合,http://173.208.212.130:8181/1080p/cctv1.m3u8
 中国香港cdn,#genre#
 千禧经典台,http://cdn3.123.rr.kg/stream/live/tvbc/
 八度空间,http://cdn6.123.rr.kg/163189/8tv
