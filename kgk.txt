@@ -147,6 +147,11 @@ HOY77·线路2,http://120.234.11.130:18180/TV00000000000000000036@HHZT
 HOY78·线路2,http://120.234.11.130:18180/TV00000000000000000088@HHZT
 ViuTV6·线路2,http://120.234.11.130:18180/TV00000000000000000084@HHZT
 中国香港cdn,#genre#
+华丽翡翠台,https://cdn3.indevs.in/stream/live/hlt/
+千禧经典台,https://cdn3.indevs.in/stream/live/tvbc/
+天映经典台,https://cdn3.indevs.in/stream/live/typd/
+天映经典台,https://cdn3.indevs.in/stream/live/ccm/
+TVB星河频道,https://cdn3.indevs.in/stream/live/tvbxh/
 千禧经典台,http://cdn3.123.rr.kg/stream/live/tvbc/
 八度空间,http://cdn6.123.rr.kg/163189/8tv
 CH5,http://cdn6.123.rr.kg/163189/ch5
