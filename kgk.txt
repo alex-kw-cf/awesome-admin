@@ -1,7 +1,9 @@
 新闻,#genre#
 HOY78,https://fast.hidns.vip/163189/hoy78
+HOY78·,http://120.234.11.130:18180/TV00000000000000000088@HHZT
 NOW新闻台,https://fast.hidns.vip/163189/now
 NOW新闻台s,http://173.208.234.146/live/nowxw.m3u8
+TVB無線新聞·,http://120.234.11.130:18180/TV00000000000000000034@HHZT
 无线新闻台,https://amg01868-amg01868c2-tvbanywhere-us-4490.playouts.now.amagi.tv/playlist/amg01868-tvbusa-tvbnews-tvbanywhereus/playlist.m3u8
 无线新闻台f,http://128.14.206.166/pull-f5.flive.douyincdn.com/live/wxxw.flv
 无线新闻台1,http://cdn6.123.rr.kg/163189/wxxw
@@ -134,10 +136,16 @@ CCTV-卫生健康,http://107.150.60.122/live/wsjk.m3u8#http://192.151.150.154/li
 林正英影院,http://107.150.60.122/live/lblzy.m3u8#http://192.151.150.154/live/lblzy.m3u8
 
 2个单独推流,#genre#
-美亞電影台HK,http://149.28.27.195:2052/l/BTvc4JAlYXj6OxI1kenQxWrhLyXfo9Z2mMqBYDRiPV7_uJxygQdexyb46-NKk06n/index.m3u8
-PopC,http://149.28.27.195:2052/l/sW1Kmqw5TYOXnRcTed3kO4q90GVX3s3c1rj84HS2QdMQSzHy1-fIbjSv6zfNiWwW/index.m3u8
-無綫新聞台,http://149.28.27.195:2082/proxy?url=https://cdn.qd.je/163189/wxxw
-無綫新聞台,http://149.28.27.195:2082/proxy?url=https://cdn.qd.je/163189/wxxwt
+鳳凰中文·线路4,http://120.234.11.130:18180/TV00000000000000000008@HHZT
+鳳凰資訊·线路4,http://120.234.11.130:18180/TV00000000000000000009@HHZT
+鳳凰香港·线路5,http://120.234.11.130:18180/TV00000000000000000024@HHZT
+TVB翡翠·线路4,http://120.234.11.130:18180/TV00000000000000000032@HHZT
+TVB無線新聞·线路4,http://120.234.11.130:18180/TV00000000000000000034@HHZT
+TVB明珠·线路2,http://120.234.11.130:18180/TV00000000000000000035@HHZT
+ViuTV·线路3,http://120.234.11.130:18180/TV00000000000000000037@HHZT
+HOY77·线路2,http://120.234.11.130:18180/TV00000000000000000036@HHZT
+HOY78·线路2,http://120.234.11.130:18180/TV00000000000000000088@HHZT
+ViuTV6·线路2,http://120.234.11.130:18180/TV00000000000000000084@HHZT
 中国香港cdn,#genre#
 千禧经典台,http://cdn3.123.rr.kg/stream/live/tvbc/
 八度空间,http://cdn6.123.rr.kg/163189/8tv
